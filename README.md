@@ -3,9 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
 # View
-![https://github.com/kuluruvineeth/Angular-Scully-Blog/blob/master/screenshots/homePage.png](HomePage)
+![HomePage](https://github.com/kuluruvineeth/Angular-Scully-Blog/blob/master/screenshots/homePage.png)
 
-![https://github.com/kuluruvineeth/Angular-Scully-Blog/blob/master/screenshots/postsPage.png](PostPage)
+![PostPage](https://github.com/kuluruvineeth/Angular-Scully-Blog/blob/master/screenshots/postsPage.png)
 
 ## Development server
 
