@@ -1,0 +1,11 @@
+identifier: k3xaiefd48x6z5j5
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /home/kuluruvineeth/Downloads/my-blog
+distFolder: dist/my-blog
+outDir: /home/kuluruvineeth/Downloads/my-blog/dist/static
+handle404: ''
+allowErrorCollect: true
