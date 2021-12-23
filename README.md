@@ -3,8 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
 # View
+### Home Page
 ![HomePage](https://github.com/kuluruvineeth/Angular-Scully-Blog/blob/master/screenshots/homePage.png)
 
+### Post Page
 ![PostPage](https://github.com/kuluruvineeth/Angular-Scully-Blog/blob/master/screenshots/postsPage.png)
 
 ## Development server
